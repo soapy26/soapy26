@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Business Analytics Undergraduate
 --------------------------------
 
-I am a Year 2 Information Systems Undergraduate at Singapore Management University. My interest in both graphic design and coding have allowed me to develop a passion for front-end development!
+I am a Year 3 Information Systems Undergraduate at Singapore Management University. My interest in both graphic design and coding have allowed me to develop a passion for front-end development!
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [psmontalban.2022@scis.smu.edu.sg](mailto:psmontalban.2022@scis.smu.edu.sg)
