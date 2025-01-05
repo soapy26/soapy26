@@ -8,7 +8,7 @@ I am a Year 2 Information Systems Undergraduate at Singapore Management Universi
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [psmontalban.2022@scis.smu.edu.sg](mailto:psmontalban.2022@scis.smu.edu.sg)
-* 🚀  I'm currently working on [No Waste Neko](http://github.com/nlcchi/No-Waste-Neko)
+* 🚀  I'm currently working on [Mastering the Poke-Arena](mastering-the-pokemon-arena.vercel.app)
 
 ### Skills
 
